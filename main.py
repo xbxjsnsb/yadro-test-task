@@ -1,5 +1,5 @@
 """
-Mordvinov Egorr
+Mordvinov Egor
 ************************
 Russia, Saint-PeterSburg
 
