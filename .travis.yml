@@ -9,6 +9,7 @@ install:
 
 script:
   - cd docs
+  - pwd
   - sphinx-build -b html ./ _build/html/
   - touch docs/_build/html/.nojekyll
 
